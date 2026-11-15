@@ -1,0 +1,6 @@
+{
+  "name": "¡Batalla de Trabalenguas!",
+  "description": "Juego educativo interactivo de pronunciación de 20 trabalenguas en español para Razmik y Gayane, con cronómetro de precisión, traducción al armenio y guardado automático.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
